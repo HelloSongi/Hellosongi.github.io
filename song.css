@@ -22,7 +22,7 @@
     --fz-lg: 18px;
     --fz-xl: 20px;
     --fz-xxl: 22px;
-    --fz-heading: 32px;
+    --fz-heading: 28px;
     --border-radius: 4px;
     --nav-height: 100px;
     --nav-scroll-height: 70px;
@@ -95,5 +95,9 @@ body {
     transition: var(--transition);
     margin-left: 15px;
     font-size: var(--fz-xs);
+}
+
+span {
+    color: red;
 }
 
